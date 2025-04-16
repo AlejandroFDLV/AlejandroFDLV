@@ -70,11 +70,5 @@
 </picture>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/317yzuozbzgtbo3p53xepqzamgpu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317yzuozbzgtbo3p53xepqzamgpu&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Gothic+Expanded+One&weight=900&pause=1000&width=435&lines=UCLA+-+DCYT;Programador;Dise%C3%B1ador+Gr%C3%A1fico)](https://git.io/typing-svg)
 ###
