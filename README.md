@@ -70,5 +70,4 @@
 </picture>
 
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Gothic+Expanded+One&weight=900&pause=1000&width=435&lines=UCLA+-+DCYT;Programador;Dise%C3%B1ador+Gr%C3%A1fico)](https://git.io/typing-svg)
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&center=true&vCenter=true&width=435&lines=UCLA+-+DCYT;PROGRAMADOR;DISE%C3%91ADOR+GR%C3%81FICO)](https://git.io/typing-svg)
