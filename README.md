@@ -70,4 +70,3 @@
 </picture>
 
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&center=true&vCenter=true&width=435&lines=UCLA+-+DCYT;PROGRAMADOR;DISE%C3%91ADOR+GR%C3%81FICO)](https://git.io/typing-svg)
